@@ -1,0 +1,17 @@
+body{margin: 0px;}
+.header{
+    background-color:green;
+    text-align: center;
+    padding: 20px;
+    
+}
+.container{
+    background-color: red;
+    padding: 30px;
+}
+.footer{
+    background-color: green;
+    text-align: center;
+    padding: 30px;
+    
+   }
